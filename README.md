@@ -1,4 +1,4 @@
-# truncate-utf8-bytes
+# truncate-utf8-bytes [![build status](https://secure.travis-ci.org/parshap/truncate-utf8-bytes.svg?branch=master)](http://travis-ci.org/parshap/truncate-utf8-bytes)
 
 Truncate a string to the given length in bytes. Correctly handles
 multi-byte characters and surrogate pairs.
