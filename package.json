@@ -1,6 +1,6 @@
 {
   "name": "truncate-utf8-bytes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Truncate string to given length in bytes",
   "main": "index.js",
   "browser": "browser.js",
